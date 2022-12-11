@@ -11,7 +11,7 @@ docker run -i -t find_mtu
 python3 find_mtu.py --address {host}
 ```
 
-Где {host} - это ip или имя хоста, для которого требуется найти MTU. Например:
+Где ```{host}``` - это ip или имя хоста, для которого требуется найти MTU. Например:
 ```
 python3 find_mtu.py --address google.com
 ```
