@@ -1,3 +1,5 @@
+Все сделано по требованиям к дз.
+
 Конфигурация собрана так:
 ![](https://github.com/natalycod/computer_networks/blob/main/HW-1/img/configuration.jpeg)
 
